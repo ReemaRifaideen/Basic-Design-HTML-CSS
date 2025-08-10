@@ -1,5 +1,5 @@
 # Basic-Design-HTML-CSS
-This Repository containing Basic designing using ***HTML*** & ***CSS*** languages.
+This Repository containing basic designing using ***HTML*** & ***CSS*** languages.
 # Project Preview
 |                 Project                         |                     Link                                                               |
 |-------------------------------------------------|----------------------------------------------------------------------------------------|
